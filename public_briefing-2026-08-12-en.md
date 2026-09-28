@@ -1,0 +1,14 @@
+# Canada Immigration Briefing (August 12, 2026)
+
+## Today's Highlights
+
+- One confirmed invitation update from official channels today: Alberta's August 12 Dedicated Health Care Pathway (Express Entry) selection issued 57 invitations.
+- All other official channels are unchanged today.
+
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:1px;">GlobalView&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Empowering Your Immigration Journey</small></div>
+
+## Invitation Rounds
+
+### Alberta: August 12 Dedicated Health Care Pathway (Express Entry) selection
+
+On August 12, Alberta's Express Entry Dedicated Health Care Pathway issued 57 invitations, with a minimum EOI score of 60.
