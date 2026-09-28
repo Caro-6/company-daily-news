@@ -5,4 +5,4 @@
 - No updates from official channels today.
 - Official sources covered in this check: the IRCC newsroom, the official Express Entry rounds table, and IRCC notices, along with the official immigration pages of Ontario, British Columbia, Alberta, Saskatchewan, Manitoba, Quebec, Nova Scotia, Prince Edward Island, Newfoundland and Labrador, and New Brunswick.
 
-<p align="center"><small><font color="#8B0000">Where there is a will, there is a way</font></small></p>
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:1px;">GlobalView&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Empowering Your Immigration Journey</small></div>
