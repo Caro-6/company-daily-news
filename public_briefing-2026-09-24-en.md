@@ -5,6 +5,8 @@
 - This is the inaugural edition of this briefing, establishing a baseline of official immigration information. As verified against official channels, there are no new policy, guide, or announcement changes today.
 - Notable recent official developments: Express Entry held six rounds in the first half of September; Newfoundland and Labrador issued 195 invitations across three September batches; BC PNP's September 17 Rural/Remote Health round issued 33 invitations; Manitoba's Draw #279 (September 10) issued 793 Letters of Advice; Alberta's September 9 Health Care round issued 51 invitations.
 
+<p align="center"><small><font color="#8B0000">Where there is a will, there is a way</font></small></p>
+
 ## Invitation Rounds
 
 ### Express Entry: Latest is Round #444 (September 16)
