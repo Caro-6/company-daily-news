@@ -5,6 +5,8 @@
 - Three confirmed changes from official channels today: **BC PNP's September 24 Innovate: High Economic Impact rounds issued 714 invitations in total**; **Alberta added six small targeted draws between September 10 and 23, with 2026 nominations issued rising to 5,221**; **Manitoba's Draw #280 (September 24) issued 474 Letters of Advice**.
 - All other official channels are unchanged today.
 
+<p align="center"><small><font color="#8B0000">Where there is a will, there is a way</font></small></p>
+
 ## Invitation Rounds
 
 ### BC PNP: September 24 Innovate rounds — 714 invitations
