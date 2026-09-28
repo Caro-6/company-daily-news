@@ -2,7 +2,7 @@
 
 ## Today's Highlights
 
-- This is the inaugural edition of this briefing, establishing a baseline of official immigration information. As verified against official channels, there are no new policy, guide, or announcement changes today.
+- As verified against official channels, there are no new policy, guide, or announcement changes today.
 - Notable recent official developments: Express Entry held six rounds in the first half of September; Newfoundland and Labrador issued 195 invitations across three September batches; BC PNP's September 17 Rural/Remote Health round issued 33 invitations; Manitoba's Draw #279 (September 10) issued 793 Letters of Advice; Alberta's September 9 Health Care round issued 51 invitations.
 
 <p align="center"><small><font color="#8B0000">Where there is a will, there is a way</font></small></p>
@@ -23,7 +23,7 @@ On September 17, BC PNP issued 33 invitations through the Temporary Rural/Remote
 
 ### Manitoba: Draw #279 (September 10) — 793 invitations
 
-Draw #279 on September 10 issued 793 Letters of Advice to Apply: 233 occupation-specific (health occupations), 11 francophone, 508 Manitoba graduates/spouses (minimum score 825), and 41 strategic recruitment; 148 went to candidates with active Express Entry profiles.
+Draw #279 on September 10 issued 793 Letters of Advice to Apply: 233 occupation-specific (health occupations), 11 francophone, 508 Manitoba graduates/spouses (minimum score 825), and 41 strategic recruitment; 272 went to candidates with valid Express Entry profiles.
 
 ### Alberta: September 9 Health Care round
 
