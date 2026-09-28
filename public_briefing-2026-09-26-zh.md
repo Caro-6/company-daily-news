@@ -5,7 +5,7 @@
 - 纽芬兰与拉布拉多于9月25日发出新一轮邀请，共41份，全部通过省提名计划（NLPNP）发出；大西洋移民项目（AIP）本轮未发出邀请。
 - 联邦移民部发布媒体预告：移民部长将于9月29日在圣约翰斯举行新闻发布会，公布法语移民新项目详情。
 
-<p align="center"><small><font color="#8B0000">联系GlobalView资深RCIC获取个性化移民路径规划</font></small></p>
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:2px;">心之所向，梦之所达 —— GlobalView资深RCIC为您全程护航</small></div>
 
 ## 邀请轮次动态
 
