@@ -5,7 +5,7 @@
 - 今日官方渠道确认 2 项轮次动态：BC 省 9 月 17 日乡村医疗定向轮次发出 33 份邀请；新不伦瑞克快速通道 9 月 17 日发出 102 份邀请。
 - 其余官方渠道今日无变化。
 
-<p align="center"><small><font color="#8B0000">联系GlobalView资深RCIC获取个性化移民路径规划</font></small></p>
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:2px;">心之所向，梦之所达 —— GlobalView资深RCIC为您全程护航</small></div>
 
 ## 邀请轮次动态
 
