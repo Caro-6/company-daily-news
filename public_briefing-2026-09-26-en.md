@@ -5,6 +5,8 @@
 - Newfoundland and Labrador issued 41 invitations to apply (ITAs) on September 25, all through the Provincial Nominee Program (NLPNP); no invitations were issued through the Atlantic Immigration Program (AIP) in this round.
 - IRCC issued a media advisory: the Minister of Immigration will hold a news conference in St. John's on September 29 to announce new Francophone immigration initiatives.
 
+<p align="center"><small><font color="#8B0000">Where there is a will, there is a way</font></small></p>
+
 ## Invitation Rounds
 
 ### Newfoundland and Labrador: 41 invitations issued on September 25
