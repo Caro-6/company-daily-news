@@ -5,7 +5,7 @@
 - 今日官方渠道确认 3 项轮次动态：阿省 9 月 10 日优先行业（制造业）定向甄选发出 48 份邀请；纽芬兰与拉布拉多 9 月 10 日发出 36 份邀请，全部为省提名；新不伦瑞克大西洋移民项目本轮选中 60 份申请进入审理。
 - 其余官方渠道今日无变化。
 
-<p align="center"><small><font color="#8B0000">联系GlobalView资深RCIC获取个性化移民路径规划</font></small></p>
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:2px;">心之所向，梦之所达 —— GlobalView资深RCIC为您全程护航</small></div>
 
 ## 邀请轮次动态
 
