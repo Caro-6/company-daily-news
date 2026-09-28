@@ -5,7 +5,7 @@
 - 纽芬兰与拉布拉多 9月25日新一轮：41 份 ITA，全部为省提名（NLPNP）；大西洋移民项目（AIP）本轮 0 份。
 - IRCC 9月25日发布媒体预告：移民部长将于 9月29日在 St. John's 举行新闻发布会，公布法语移民新项目；目前仅为预告，实质内容待公布。
 
-<p align="center"><small><font color="#8B0000">联系GlobalView资深RCIC获取个性化移民路径规划</font></small></p>
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:2px;">心之所向，梦之所达 —— GlobalView资深RCIC为您全程护航</small></div>
 
 ## Invitation / Draw 动态
 
