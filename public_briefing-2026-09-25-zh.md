@@ -5,7 +5,7 @@
 - 今日官方渠道确认 3 项变化：**BC 省 9 月 24 日 Innovate 高经济影响力轮次共发出 714 份邀请**；**阿省 9 月 10–23 日新增 6 轮小型定向甄选，2026 年提名已发出 5,221 份**；**曼省 9 月 24 日第 280 轮共发出 474 份邀请**。
 - 其余官方渠道今日无变化。
 
-<p align="center"><small><font color="#8B0000">联系GlobalView资深RCIC获取个性化移民路径规划</font></small></p>
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:2px;">心之所向，梦之所达 —— GlobalView资深RCIC为您全程护航</small></div>
 
 ## 邀请轮次动态
 
