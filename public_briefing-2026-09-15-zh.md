@@ -5,7 +5,7 @@
 - 今日官方渠道确认 2 项动态：阿省 9 月 15 日优先行业（农业）定向甄选发出 18 份邀请；萨省 9 月 15 日食品服务行业窗口名额全部用完。
 - 其余官方渠道今日无变化。
 
-<p align="center"><small><font color="#8B0000">联系GlobalView资深RCIC获取个性化移民路径规划</font></small></p>
+<div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:2px;">心之所向，梦之所达 —— GlobalView资深RCIC为您全程护航</small></div>
 
 ## 邀请轮次动态
 
