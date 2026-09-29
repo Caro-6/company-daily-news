@@ -1,8 +1,17 @@
 # Canada Immigration Daily Briefing (September 29, 2026)
 
 ## Today's Highlights
-- One update from official channels today: the federal government announced approximately $1.2 million in funding for three new projects promoting Francophone immigration in Newfoundland and Labrador, Saskatchewan, and Northern Ontario.
+- Two updates from official channels today: Express Entry held Round #446 for the Canadian Experience Class, issuing 2,000 invitations with a minimum CRS score of 518; and the federal government announced approximately $1.2 million in funding for three new projects promoting Francophone immigration in Newfoundland and Labrador, Saskatchewan, and Northern Ontario.
 <div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:1px;">GlobalView&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Empowering Your Immigration Journey</small></div>
+
+## Invitation Rounds
+- Express Entry Round #446
+- Round date: September 29, 2026
+- Category: Canadian Experience Class
+- Invitations issued: 2,000
+- Minimum CRS score: 518
+- Tie-breaking rule: candidates who submitted their Express Entry profile before February 13, 2026 at 20:48:08 UTC were prioritized
+- Invitation period: September 29 to September 30, 2026
 
 ## Latest Announcements and Policy Changes
 - Federal support for new Francophone immigration projects
