@@ -2,7 +2,7 @@
 
 ## Today's Highlights
 
-On October 28, Express Entry held a new Transport Occupations round, issuing 150 invitations with a minimum CRS score of 477. On the same day, Immigration, Refugees and Citizenship Canada issued a news release: a new penalty regime for people who break the law while providing paid immigration or citizenship advice or representation takes effect today, with combined penalties of up to $1.5 million and a public registry of penalized representatives expected in 2027. Apart from these items, provincial official channels show no changes.
+On October 28, Express Entry held a new Transport Occupations round, issuing 150 invitations with a minimum CRS score of 477. On the same day, Immigration, Refugees and Citizenship Canada issued a news release: a new penalty regime for people who break the law while providing paid immigration or citizenship advice or representation takes effect today, with combined penalties of up to $1.5 million and a public registry of penalized representatives expected in 2027. On the same day, the department also updated its Labour Market Impact Assessment review instructions for the Temporary Foreign Worker Program: concurrent processing for in-Canada work permit applications no longer has a 90-day limit, and applications will be held until a decision is made on the LMIA. Apart from these items, provincial official channels show no changes.
 
 <div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:1px;">GlobalView&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Empowering Your Immigration Journey</small></div>
 
@@ -31,3 +31,9 @@ On October 28, Express Entry held a new Transport Occupations round, issuing 150
   - Publication: as penalties are issued, the department will publish the names of those penalized and the details of their violations on its website; an online registry is expected to launch in 2027, following the administration of the first penalties
   - Advice for applicants: check that a representative is authorized before paying for services
   - This is an enforcement and integrity measure, not a new immigration pathway, and it does not change application eligibility
+
+- Federal: concurrent processing for in-Canada work permit applications no longer has a 90-day limit
+  - Who is affected: applicants applying in Canada whose current work permit expires in 2 weeks or less, and whose employer has submitted a complete LMIA application in advance with no decision yet made
+  - New rule: the work permit application will be held until there is a decision on the LMIA, after which a final determination will be made; there is no longer a 90-day limit
+  - Previous rule: applications were held for 90 days, after which a final determination was made
+  - This change does not alter the LMIA requirement itself or the eligibility conditions for concurrent processing
