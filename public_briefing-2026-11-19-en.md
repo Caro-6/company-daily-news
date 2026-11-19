@@ -7,6 +7,7 @@
 - Alberta updated its processing information page, adding draws on November 6, 9 and 13, with 2026 nominations issued rising to 6,440 and 163 spaces remaining.
 - Nova Scotia reported 1,296 selections in October, the highest monthly figure this year, bringing the January–October total to 6,696.
 - A new federal program delivery update revises the instructions for open work permits for Start-up Business Class permanent residence applicants.
+- The Job Bank fall 2026 wage update took effect on November 18: new LMIA applications are assessed against the updated median wages, and employers with temporary foreign workers on staff must complete the annual prevailing-wage review by January 1, 2027.
 
 <div align="center" style="margin-top:28px;padding-top:14px;border-top:1px solid #E9ECF1;"><small style="color:#334155;letter-spacing:1px;">GlobalView&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Empowering Your Immigration Journey</small></div>
 
@@ -57,3 +58,12 @@
 - The instructions cover open work permits for Start-up Business Class permanent residence applicants under the International Mobility Program
 - The update includes new eligibility criteria and documentary evidence required as of December 19, 2025, clarification of the criteria and documents required for renewals, considerations when a designated entity is suspended, updates to out-of-date contact information, a new user remark stating the permit is not authorized for employment in Quebec, and more detailed instructions for assessing applications, including significant benefit considerations and rationale, clarification on dual intent, and clearer information about the letter of support and commitment certificate
 - This update is to the department's operational instructions for officers and does not change program eligibility or points for applicants
+
+### Federal: Job Bank fall 2026 wage update takes effect
+
+- Date of update: November 18, 2026
+- Job Bank updates its wage data every fall, and the fall 2026 update took place on November 18; the prevailing wage is the higher of the Job Bank median wage and the wage within the range paid to current employees in the same job, at the same location, with the same skills and years of experience
+- New LMIA applications are assessed against the updated median wages; employers who already have temporary foreign workers must review the prevailing wage every year, and the current review must be completed by January 1, 2027
+- The updated wage can never fall below the wage stated in the positive LMIA at any time during a temporary foreign worker's employment, even if the prevailing wage decreases
+- Wage figures for a specific occupation and region must be looked up individually on Job Bank by occupation and location
+- Note that this is not the same as New Brunswick's high-wage threshold ($31.73), which is a separate table updated quarterly, next due January 8, 2027, and it is not a change to the Express Entry high-wage occupations list
